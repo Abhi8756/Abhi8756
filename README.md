@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,chess,reading and fitness
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on projects related with HTML
-- 📫 You can reach out to me on www.linkedin.com/in/abhijit-potty and gmail.com
+- 📫 You can reach out to me on www.linkedin.com/in/abhijit-potty and abhijit.potty@gmail.com
   
 
 <!---
