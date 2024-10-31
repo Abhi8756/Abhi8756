@@ -7,7 +7,7 @@
 
 HacktoberFest 2024
 
--  
+ 
   [![An image of @abhi8756's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi8756)](https://holopin.io/@abhi8756)
 
 <!---
