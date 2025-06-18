@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhijit
-- 👀 I’m interested in programming,chess,reading and fitness
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on projects related with HTML
+- 🌱 I’m currently a front-end developer, having interned at multiple startups 
+- 💞️ I’m looking to collaborate with like minded people on project that can create real-world impact
+- 👀 I’m into programming,chess,reading and fitness
 - 📫 You can reach out to me on www.linkedin.com/in/abhijit-potty and abhijit.potty@gmail.com
 
 
