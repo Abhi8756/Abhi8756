@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhijit
-- 🌱 I’m currently a front-end developer, having interned at multiple startups 
+- 🌱 I’m currently a Front-end developer, having interned at multiple startups 
 - 💞️ I’m looking to collaborate with like minded people on project that can create real-world impact
 - 👀 I’m into programming,chess,reading and fitness
 - 📫 You can reach out to me on www.linkedin.com/in/abhijit-potty and abhijit.potty@gmail.com
