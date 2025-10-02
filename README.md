@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Always+Learning+and+Building;Chess+%7C+Coding+%7C+Fitness&center=true&width=500&height=25">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Always+Learning+and+Building;Chess+%7C+Coding+%7C+Fitness&center=true&width=500&height=25">
 </p>
 
 -  Exploring the intersection of **Machine Learning, Cybersecurity, and Full-Stack Development**  
